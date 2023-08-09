@@ -1,4 +1,6 @@
-### Hi there 👋
+### Software Enginner
+* Backend Enginner
+* Server Developer
 
 <!--
 **YunKul-Lee/YunKul-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
