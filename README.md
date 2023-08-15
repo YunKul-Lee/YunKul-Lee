@@ -1,6 +1,8 @@
 ### Software Enginner
+* Software Architect & Enginner
 * Backend Enginner
 * Server Developer
+* Game Server Developer
 
 <div align=center> 
   
