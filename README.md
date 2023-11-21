@@ -20,6 +20,8 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
+![Spring Batch](https://img.shields.io/badge/-Spring%20Batch-6DB33F)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F)
 
 <br/>
 
